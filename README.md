@@ -16,3 +16,14 @@ Se recomienda crear una organizacion que sea la propietaria del repositorio prin
 ## Creacion de Fork
 
 Para crear un fork debes iniciar sesion en github luego buscar el proyecto del cual quieres hacer un fork
+
+## Como trabajar con 2 o mas remotos
+
+Listar remotos
+`git remote -v`
+
+Agregar remotos
+`git remote add EDgit https://github.com/runaDevs/EDgit.git`
+
+Eliminar remotos
+`git remote remove EDgit`
